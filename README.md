@@ -1,7 +1,7 @@
 # AKQ_genetic_algorithm
 Uses genetic algorithm techniques to find optimal play for the AKQ game.
 
-Version 0 used 6-bit alleles. The first 3 bit determines play when first to act. The second 3 bits determine play when second to act.
+Version 0 uses 6-bit alleles. The first 3 bits determine play when playing as Player 1. The second 3 bits determine play when playing as Player 2.
 
 The AKQ game is played as follows:
 A deck of 3 cards (Ace, King, Queen, no suits) is in play. Each player posts an equal ante, and then is dealt a single card from the 3-card deck.
